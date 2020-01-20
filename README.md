@@ -3,9 +3,9 @@
 Hardware:
 ```
 CPU: Ryzen 9 3950X
-Motherboard: ROG STRIX X470-F GAMING (BIOS/UEFI Version: 5406)
-GPU1 (Guest): GeForce GTX 1080 8GB @ Stock
-GPU2 (Host): RX 570 8GB @ Stock
+Motherboard: Asus ROG STRIX X470-F GAMING (BIOS/UEFI Version: 5406)
+GPU1 (Guest): Palit GeForce GTX 1080 8GB @ Stock
+GPU2 (Host): MSI RX 570 8GB @ Stock
 RAM: 4 x 16GB (64GB) @ 3333 HZ
 Guest OS: Windows 10 Pro
 Kernel: 5.4.13-arch1-1-gc
